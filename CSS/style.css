@@ -34,10 +34,28 @@ h3 {
     
 }
 
-.bold {
-    font-weight: bold;
-    color: green;
+.feher {
+    color: gray;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify ;
+
 }
+.piros {
+    color: red;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify ;
+
+}
+.zold {
+    color: green;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify ;
+
+}
+
 
 .img-div {
     background-color: lightblue;
