@@ -1,0 +1,16 @@
+#colorDiv{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: rgba(0, 0, 250, 0.155);
+}
+
+html {
+    background: url("../img/jb.JPG");
+    
+}
+
+
+
+
+
